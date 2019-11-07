@@ -1,6 +1,6 @@
 # Leetcode-codes
 ## Description:
-This is only for recording my Leetcode answers.
+This is only for recording my leetcode algorithm answers.
 Leetcode刷题记录
 ## Language:
 Java
